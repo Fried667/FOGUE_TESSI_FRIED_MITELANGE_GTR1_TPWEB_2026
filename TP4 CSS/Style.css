@@ -1,0 +1,46 @@
+body{
+ background:#d3ce45;
+    font-family:arial, sans-serif;
+    margin : 20PX;
+   h1{
+    color: darkblue;
+    text-align:centre;
+   }
+   h2{
+    COLOR: #333;
+   }
+   p{
+    font-size:16PX;
+    line-height:1.5;
+   }
+   a{
+    text-decoration:none;
+    color: blue;
+    margin-right: 15px;
+   }
+   a:hover{
+    color:red;
+   }
+   ul{
+    background: white;
+    padding:10PX;
+   }
+   li{
+    margin-bottom:5PX;
+    
+   }
+   img{
+    border-radius:10PX;
+    margin-top:10PX;
+   
+   }
+    .section{
+        background: white;
+         padding:15PX;
+         margin-bottom:20PX;
+         border-radius:5PX;
+
+         
+
+    }
+   }
